@@ -6,6 +6,7 @@
 - Experimental methods
 - Numerical methods
 - Data visualization 
+- Modeling mechanical systems
 
 ## Education 
 
