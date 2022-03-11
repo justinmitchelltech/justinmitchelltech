@@ -1,5 +1,4 @@
-# Justin Mitchell
-👋 Hi I'm a mechanical engineering who's developed a software skillset at the intersection of hardware engineering and data science. 
+👋 I'm a mechanical engineering who's developed a software skillset at the intersection of hardware engineering and data science. 
 
 ## Skills
 - Optimization methods
