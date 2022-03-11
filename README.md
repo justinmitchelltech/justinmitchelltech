@@ -8,10 +8,12 @@
 - Data visualization 
 
 ## Education 
+
 ### Formal 
-##### Georgia Tech, BS, Mechanical Engineering '21
-##### Georgia Tech, MS, Mechanical Engineering '22
+##### Georgia Tech, MS, Mechanical Engineering '21
 - Specifically focused my studies in optimization methods and experimental methods
+##### Georgia Tech, BS, Mechanical Engineering '20
+
 ### Autodidacticism (Self-Education)
 #### In-Progress
 - *Course that I'm taking:* Python for Data Science (by DataCamp)
