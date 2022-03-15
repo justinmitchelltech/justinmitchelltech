@@ -12,7 +12,7 @@
 
 ### Formal 
 ##### Georgia Tech, MS, Mechanical Engineering '21
-- Specifically focused my studies on optimization
+- Concentrated my studies on optimization
 ##### Georgia Tech, BS, Mechanical Engineering '20
 
 ### Autodidacticism (Self-Education)
