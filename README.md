@@ -1,11 +1,11 @@
 👋 I'm a mechanical engineer who's developing a programming skillset at the intersection of hardware engineering and data science. 
 
 ## Skills
-- Optimization 
 - Modeling mechanical systems
+- Optimization 
 - Experimental methods
-- Data visualization
 - Numerical methods
+- Data visualization
 
 
 ## Education 
