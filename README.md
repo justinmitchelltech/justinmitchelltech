@@ -20,14 +20,12 @@
 ## Education 
 
 ### Formal 
-##### Georgia Tech, MS, Mechanical Engineering '21
+##### '21 Georgia Tech, MS, Mechanical Engineering
 - Concentrated my studies on optimization
     - Optimization methods
     - Mechanical design optimization
     - Product-market fit optimization 
-##### Georgia Tech, BS, Mechanical Engineering '20
-
-<br>
+##### '20 Georgia Tech, BS, Mechanical Engineering
 
 ### Autodidacticism (Self-Education)
 #### In-Progress
