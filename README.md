@@ -1,6 +1,15 @@
-👋 I'm a mechanical engineer who's developing a programming skillset at the intersection of hardware engineering and data science. 
+👋 I'm a mechanical design engineer, software autodidact, and fitness technology expert.
+
+
+## Interests
+- Health and fitness technology
+- Consumer product hardware
+- Data science: algorithm devlopment 
+- Open-source solutions
+
 
 ## Skills
+- Mechanical hardware design
 - Modeling mechanical systems
 - Optimization 
 - Experimental methods
@@ -13,7 +22,12 @@
 ### Formal 
 ##### Georgia Tech, MS, Mechanical Engineering '21
 - Concentrated my studies on optimization
+    - Optimization methods
+    - Mechanical design optimization
+    - Product-market fit optimization 
 ##### Georgia Tech, BS, Mechanical Engineering '20
+
+<br>
 
 ### Autodidacticism (Self-Education)
 #### In-Progress
