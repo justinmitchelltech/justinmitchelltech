@@ -1,4 +1,4 @@
-👋 I'm a mechanical design engineer, fitness technology engineer, and software autodidact. 
+👋 I'm a mechanical design engineer, fitness technology expert, and software autodidact. 
 
 
 ## Interests
