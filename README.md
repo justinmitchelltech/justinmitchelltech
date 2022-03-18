@@ -15,6 +15,7 @@
 - Experimental methods
 - Numerical methods
 - Data visualization
+- High-level programming languages: Python, MATLAB
 
 
 ## Education 
@@ -27,7 +28,7 @@
     - Product-market fit optimization 
 ##### '20 Georgia Tech, BS, Mechanical Engineering
 
-### Autodidacticism (Self-Education)
+### Self-Education
 #### In-Progress
 - *Course that I'm taking:* Python for Data Science (by DataCamp)
 - *Book that I'm reading:* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) by Al Sweigart
