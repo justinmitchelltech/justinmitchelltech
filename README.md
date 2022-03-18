@@ -6,6 +6,7 @@
 - Consumer product hardware
 - Data science: algorithm devlopment 
 - Open-source solutions
+- Algorithmic trading
 
 
 ## Skills
